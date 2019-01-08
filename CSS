@@ -7,12 +7,13 @@
 /*201810698 Jeong Ki-yoon(Alex)
 UI_UX class, Bootstrap sample file1, CSS file*/
 
+
+
 body{
   background-color:rgb(255, 215, 128);
   color:rgb(0, 0, 0);
   font-family: 'Roboto Condensed',sans-serif;
 }
-
 h1,
 h2,
 h3,
@@ -34,15 +35,15 @@ font-family: 'Staatliches', cursive;
 color:rgb(255, 222, 151);
 background-color: #ffffff;
 }
-section {
-  padding:50px 0;
-}
+
 
 .tallCol
 
 {
 
  padding: 200px 0;   text-align: center;
-
+ background: rgb(34,193,195);
+ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); 
 }
+
 
