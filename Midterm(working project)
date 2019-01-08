@@ -24,7 +24,7 @@
 <h1>Last weeks best </h1>
 <p> coding is hard</p>
  </div>
-<div class= "col tallCol">
+<div class= "col tallCol";>
 <h1> This weeks best</h1>
 <p>The column doesnt seem to increase its size.</p>
 </div>
@@ -37,7 +37,14 @@
 
 
 
-  </head>
+  </head> 
+<i class="fa fa-circle fa-stack-2x" style="color:blue;"></i>
+
+<i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>                      
+
+</span>
+
+
 <!doctype html>
 
     <!-- Navigation -->
@@ -158,5 +165,6 @@ style="background-color:rgb(255, 206, 149)">
     <script src="js/scrolling-nav.js"></script>
 
   </body>
-
+  
 </html>
+
