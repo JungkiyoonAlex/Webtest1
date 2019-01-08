@@ -16,82 +16,26 @@
     <!-- Custom styles for this template -->
    
 <!-- Grid: Image Test, in Class. -->
-
 <section id="testClass" class="bg-warning">
+<div class="container">
+<!-- 1 Row, Two Columns. -->
+<div class="row">   
+<div class= "col tallCol">
+<h1>Last weeks best </h1>
+<p> coding is hard</p>
+ </div>
+<div class= "col tallCol">
+<h1> This weeks best</h1>
+<p>The column doesnt seem to increase its size.</p>
+</div>
 
-    <div class="container">
- 
-      <!-- 1 Row, Two Columns. -->
- 
-      <div class="row">   
- 
-            <div class="col-6 tallCol"
-            
-            {
-            
-             padding: 200px 0;
-             tallCol
-             
-             {
-             
-               padding: 100px 5%;   text-align: center;
-             
-             }
-             
-             
-             
-            
-            }
+     </div>
 
-            
-            >
- 
-                <h1> Left column.</h1>
- 
-                  <p>Extra text for the left column. 
- 
- Testing 1, 2, 3.</p>
- 
-            </div>
- 
-        
- 
-            <div class="col-6 tallCol"
-            
-            {
-            
-             padding: 200px 0;
-             tallCol
-             
-             {
-             
-               padding: 100px 5%;   text-align: center;
-             
-             }
-             
-             
-             
-            
-            }
-            
-            >
- 
-              <h1> Right column.</h1>
- 
-                  <p>Extra text for the left column. 
- 
- Testing 4, 5, 6.</p>
- 
-            </div>
- 
-      </div>
- 
-    </div>
- 
-  </section>
- 
- 
- 
+   </div>
+
+ </section>
+
+
 
   </head>
 <!doctype html>
@@ -137,7 +81,7 @@
 class="img-fluid collmage">
           </div>
           </div>
-          ></div>
+          </div>
         </div>
       </div>
     </section>
@@ -179,10 +123,11 @@ style="background-color:rgb(255, 206, 149)">
 <!--First Row of our Table-->
 <!--Two Columns.-->
 <div class="row">
-
+  <!--First-->
+  <div class="col-4"><h></h></h>
 </div>
 
-<p class="lead">Birds on a electricity line</p>
+<p class="lead">Birds on a line</p>
 <img src="https://images.freeimages.com/images/large-previews/9c7/birds-meeting-1309186.jpg"height="400" width="400">
 
 </div>
